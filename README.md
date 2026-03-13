@@ -50,24 +50,18 @@ void loop() {
 }
 ```
 
-## 📁 Archivos del Proyecto
-- **CÓDIGO SENSOR HC-SR04 - ARDUINO IDE**: Código Arduino para el sensor ultrasónico
-- **Diagrama de conexión.png**: Esquema de conexión del sensor
-
 ## 🔧 Componentes Necesarios
-- Arduino (Uno, Nano, Mega, etc.)
+- Arduino UNI
 - Sensor Ultrasónico HC-SR04
-- Cables de conexión (Jumper wires)
-- Resistencias (si es necesario)
+- Cables de conexión (Jumper)
 - Protoboard (opcional)
-- Fuente de alimentación 5V
 
 ## 📌 Conexiones
 El sensor HC-SR04 se conecta al Arduino mediante:
 - **VCC**: +5V
 - **GND**: GND
-- **TRIG**: Pin digital (por ejemplo, pin 7)
-- **ECHO**: Pin digital con entrada analógica (por ejemplo, pin 8)
+- **TRIG**: Pin digital (por ejemplo, pin 9)
+- **ECHO**: Pin digital con entrada analógica (por ejemplo, pin 10)
 
 ## 💡 Cómo Usar
 1. **Conecta los componentes** según el diagrama de conexión
