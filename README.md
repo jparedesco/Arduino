@@ -54,7 +54,7 @@ void loop() {
 - Arduino UNO
 - Sensor Ultrasónico HC-SR04
 - Cables de conexión (Jumper)
-- Protoboard (opcional)
+- Protoboard (Opcional)
 
 ## 📌 Conexiones
 El sensor HC-SR04 se conecta al Arduino mediante:
